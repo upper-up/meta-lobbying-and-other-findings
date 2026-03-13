@@ -46,7 +46,12 @@
 
 ### Corporate Registry Search Results
 
-No incorporation records, EIN, or Form 990 filings found in any public database searched.
+**UPDATE (2026-03-13):** DCI was subsequently confirmed in the IRS Business Master File:
+- **EIN:** 39-3684798
+- **Incorporation:** Delaware (213 N Market St #1039, Wilmington, DE 19801 — registered agent address)
+- **IRS Ruling:** November 2025, unconditional exemption
+- **Subsection:** 501(c)(3), foundation status 15 (not a private foundation)
+See `dca_incorporation_updated.md` for full analysis.
 
 ---
 
@@ -153,13 +158,24 @@ The organization has been described as:
 
 ## 8. Summary of Key Findings
 
-- **DCA is formally named "Digital Childhood Alliance, Inc."** and claims 501(c)(4) status, but no incorporation record, EIN, or Form 990 could be located in any public database.
+- **DCA is formally named "Digital Childhood Alliance, Inc."** and claims 501(c)(4) status, but no incorporation record, EIN, or Form 990 could be located in any public database. **UPDATE:** Subsequent IRS BMF search of all 4 regional extracts (eo1-eo4.csv) confirmed DCA is NOT in the IRS system. See `dca_incorporation_updated.md`.
 - **DCA was publicly launched on February 25, 2025** and is headquartered in Washington, DC (remote organization, no public street address).
 - **Casey Stefanski is Executive Director;** previously at NCOSE for 10 years. The "founder" appears to be a separate, unnamed individual whose father is DCA's largest donor.
 - **Meta is funding DCA** according to multiple news reports, which Stefanski confirmed under questioning but refused to name specific donors.
 - **No connection to Adam Eichberg or Headwaters Strategies** was publicly documented, though Eichberg's role as chair of the Arabella-managed New Venture Fund is notable given the opacity of DCA's organizational structure.
 - **Headwaters Strategies, Inc.** is confirmed registered in Colorado (founded 2009, 1660 Lincoln St., Denver) but no link to DCA was found.
-- **The Digital Childhood Institute (DCI)** is the 501(c)(3) sister entity, founded by Melissa McKay, who serves as President and Board Chair.
+- **The Digital Childhood Institute (DCI)** is the 501(c)(3) sister entity, founded by Melissa McKay, who serves as President and Board Chair. **UPDATE:** DCI confirmed in IRS BMF with EIN 39-3684798, Delaware incorporation.
+
+## 9. Subsequent Findings (Added 2026-03-13)
+
+The following findings were established after this initial registry search:
+
+- **NCOSE has a 501(c)(4) affiliate** — "NCOSEAction" / Institute for Public Policy (EIN 88-1180705), IRS ruling May 2025, same address and leadership as NCOSE. Potential DCA fiscal sponsor.
+- **DCA processes donations through For Good DAF** (EIN 68-0480736) — classified as "Project" (ID 258136) in the system, not as a standalone nonprofit. For Good explicitly limits grants to 501(c)(3) organizations.
+- **For Good DAF grants searched:** 59,736 recipients across 5 years ($1.73B) — zero matches for DCA, DCI, or NCOSE entities.
+- **DCA's legal non-existence** (no EIN, no incorporation, no IRS record) is consistent with fiscal sponsorship under NCOSEAction or Sixteen Thirty Fund.
+
+See also: `dca_incorporation_updated.md`, `five_threads_investigation.md`, `ncose_forgood_fec_investigation.md`
 
 ---
 

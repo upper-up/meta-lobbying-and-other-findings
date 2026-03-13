@@ -38,18 +38,26 @@ Source: OpenSecrets federal lobbying database.
 
 ### 2.3 Super PAC / Political Spending in California
 
-Meta committed **$65 million** to two super PACs in 2025:
+Meta committed **$70+ million** to four super PACs in 2025:
 
 1. **American Technology Excellence Project (ATEP)** -- $45 million contribution
-   - Multi-state super PAC
-   - Run by Republican veteran Brian Baker and Democratic consulting firm Hilltop Public Solutions
+   - Multi-state super PAC (state-level, not FEC-registered)
+   - Co-led by Republican veteran Brian Baker and Democratic consulting firm **Hilltop Public Solutions**
    - Focus: electing state candidates supportive of minimal tech/AI regulation
+   - **Hilltop Public Solutions also coordinates DCA messaging** — first firm confirmed bridging Meta's super PAC and astroturf advocacy operations
 
 2. **Mobilizing Economic Transformation Across California (META California)** -- $20 million contribution
    - California-specific super PAC
    - Led by **Brian Rice**, Meta's VP of Public Policy, and **Greg Maurer**, another top Meta policy executive
    - Entered 2026 with approximately $19.7 million still available
    - Focus: supporting state-level candidates from both parties who favor lighter AI and tech regulation
+
+3. **Forge the Future** (Texas, Republican-aligned, ATEP affiliate)
+   - Policy priority: **"Empowering parents with oversight of children's online activities"** — mirrors ASAA language
+   - State-level entity, not FEC-registered
+
+4. **California Leads** -- $5 million contribution
+   - Union-partnered super PAC
 
 ### 2.4 Trade Association Payments
 
@@ -72,7 +80,7 @@ Meta paid the **California Chamber of Commerce** approximately **$3.1 million**,
 
 ### 3.2 Lobbying Firms
 
-The specific California contract lobbying firms retained by Meta were not individually identified in publicly available search results. Meta employs both in-house lobbyists and external firms. At the federal level, Meta retained **24 lobbying firms** and employed **87 lobbyists** (2025 figures); 85% were "revolving door" lobbyists with prior government service.
+The specific California contract lobbying firms retained by Meta were not individually identified in publicly available search results. Meta employs both in-house lobbyists and external firms. At the federal level, Meta retained **40+ lobbying firms** and employed **87 lobbyists** (2025 figures); 85% were "revolving door" lobbyists with prior government service.
 
 **Note:** The California Secretary of State's CAL-ACCESS database (cal-access.sos.ca.gov) and calobbysearch.org maintain records of all registered lobbyists and their employers. A direct database query for "Meta Platforms" as lobbyist employer would yield the complete list of individual registered California lobbyists. WebFetch access to these databases was not available during this research session.
 
@@ -135,9 +143,11 @@ Meta publicly endorsed AB-1043. Official statement:
 
 ## 5. DCA and Related Entity California Lobbying
 
-### 5.1 Digital Content Association (DCA)
+### 5.1 Digital Childhood Alliance (DCA)
 
-No California lobbying registration was found for an entity called "Digital Content Association" (DCA) in the search results. This entity does not appear in publicly searchable California lobbying databases based on available research.
+No California lobbying registration was found for the **Digital Childhood Alliance** (DCA) in the search results. DCA is a 501(c)(4) organization funded by Meta that advocates for the App Store Accountability Act at the state level. DCA **opposed** AB-1043 (see Section 4.3), which is notable because Meta **supported** it — suggesting DCA operates with some degree of messaging independence from Meta on state-specific legislation, even as both align on the broader ASAA agenda.
+
+DCA has no incorporation record, no EIN, and no IRS filing found in any public database. It likely operates under fiscal sponsorship from NCOSEAction / Institute for Public Policy (EIN 88-1180705, 501(c)(4)).
 
 ### 5.2 Related Trade Associations Active in California
 
@@ -175,7 +185,7 @@ Meta launched this multi-pronged approach in response to California introducing 
 
 4. **2025 Q4 and full-year totals:** Q4 2025 data not yet available at time of research.
 
-5. **DCA entity:** No California lobbying registration found for "Digital Content Association" -- may not exist as a California-registered entity, or may operate under a different name.
+5. **DCA entity:** No California lobbying registration found for "Digital Childhood Alliance" -- DCA may not be registered as a California lobbying entity. DCA opposed AB-1043 while Meta supported it.
 
 ### Recommended Actions
 

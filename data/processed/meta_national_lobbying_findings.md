@@ -34,7 +34,11 @@ Meta Platforms set an **all-time lobbying spending record of $26.29 million in 2
 - Age verification / child safety
 - TAKE IT DOWN Act
 
+**UPDATE (2026-03-13) — LD-2 Filing Analysis:**
+Meta's LD-2 filings explicitly list **H.R. 3149/S. 1586, the App Store Accountability Act** as a lobbied bill under the CPI issue code. The narrative includes "protecting children, bullying prevention and online safety; youth safety and federal parental approval; youth restrictions on social media." Meta also lobbies on KOSA (S. 1748) and COPPA 2.0 (S. 836). See `meta_ld2_lobbying_disclosures.md` for complete analysis.
+
 Source: https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000033563
+Source: https://lda.senate.gov/filings/public/filing/b73445ed-15e5-42e7-a1e8-aeb224755267/print/
 
 ---
 
@@ -114,14 +118,16 @@ Per existing findings (headwaters_expenditure_findings.md):
 - Eichberg is simultaneously **NVF Board Chair** and Headwaters Co-founder
 - Colorado bills: SB26-051, SB25-086, HB25-1287
 
-### CO TRACER Campaign Contributions — PENDING
-Colorado TRACER (tracer.sos.colorado.gov) requires interactive searching for contributions from:
-- Adam Eichberg
-- Will Coyne
-- Meta PACs
-- To: Sen. Matt Ball, Rep. Amy Paschal (bill sponsors)
+### CO TRACER Campaign Contributions — COMPLETED
 
-**Status:** TRACER website had SSL issues during automated access. Requires manual search or FOIA response (due 2026-03-13 from CO SOS).
+**UPDATE (2026-03-13):** Full CO TRACER analysis completed. Key findings:
+- **Jake Levine (Meta PM):** $1,175 to Matt Ball (both committees, maxed, 2025-06-02)
+- **Kyle Gardner (Google Policy Mgr):** $450 to Matt Ball (2025-03-24)
+- **James Rosenthal (Pinterest Attorney):** $1,175 to Matt Ball (both committees, maxed, 2025-06-14)
+- **Eichberg and Coyne:** $20K+ combined giving, but **zero to any ASAA sponsor**
+- **No Meta PAC or corporate contributions** found
+- Ball received 8% of fundraising from tech employees — only 2026 CO senate candidate with Meta, Pinterest, Instacart, Anthropic, and Google employee contributions
+See `co_tracer_contribution_findings.md` and `five_threads_investigation.md`.
 
 ---
 
@@ -131,9 +137,9 @@ Based on available data, Meta's state lobbying operation includes:
 
 | State | Known Firm/Lobbyist |
 |-------|-------------------|
-| Louisiana | Pelican State Partners, LLC |
-| Colorado | Headwaters Strategies |
-| Federal | Multiple firms (86+ lobbyists on OpenSecrets) |
+| Louisiana | Pelican State Partners, Adams and Reese LLP, State Capitol Solutions (3 of 9 firms; 12 lobbyists total, $324,992+) |
+| Colorado | Headwaters Strategies ($338,500), Ana Martinez (~$102K), Dan Sachs (~$11K) |
+| Federal | 40+ firms, 87 lobbyists (85% revolving door) |
 | Other 42+ states | Firms not yet identified |
 
 **Note:** The Substack investigation mentions coordination with **DCI Group** and **Hilltop Public Strategies** for DCA messaging, though it's unclear if these firms are directly retained by Meta or by DCA.

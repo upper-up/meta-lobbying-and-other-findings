@@ -83,6 +83,21 @@ The conference committee report added a definition of "connected device" and exp
 
 ---
 
+## Meta Drafted the Bill (Confirmed)
+
+**UPDATE (2026-03-13):** Investigative reporting confirmed that **a Meta lobbyist "brought legislative language" directly to sponsor Rep. Kim Carver** for HB-570. Carver confirmed this publicly. The original bill as written placed age verification burden exclusively on app stores, not on platforms — directly serving Meta's commercial interests.
+
+Three lobbying firms confirmed representing Meta in Louisiana:
+1. **Pelican State Partners, LLC** (Koch, Rhodes, Kirkpatrick, Satpathi, Albrecht)
+2. **Adams and Reese LLP** (Wilkerson, Brooks — #1 ranked LA gov affairs firm)
+3. **State Capitol Solutions / State GR** (Borill)
+
+Total: 12 lobbyists across 9 firms, at least **$324,992** ("very conservative estimate").
+
+See `five_threads_investigation.md` and `ncose_forgood_fec_investigation.md` for complete analysis.
+
+---
+
 ## Committee Hearing Testimony
 
 ### House Commerce Committee (approx. May 2025)
